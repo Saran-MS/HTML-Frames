@@ -1,0 +1,90 @@
+
+.header
+{
+    background-color: rgb(250, 101, 95);
+    text-align: center;
+}
+.header h1
+{
+    letter-spacing: 10px;
+    color: #363c4a;
+    font-family: 'Nunito',sans-serif;
+    font-style: Bold 900 italic;
+}
+.header h3
+{
+    letter-spacing: 2px;
+    color: #141414;
+    font-family: 'Nunito',sans-serif;
+    font-size: 23px;
+}
+.header p{
+    margin-top: 50px;
+    color: #141414;
+    font-family: 'Nunito',sans-serif;
+    font-size: 20px;
+}
+
+.vertical-menu
+{
+    background-color: #eee;
+}
+.vertical-menu a {
+    font-family: 'Nunito',sans-serif;
+    background-color: #eee;
+    color:#141414;
+    display: block;
+    padding: 12px;
+    font-size: large;
+    text-decoration:#141414;
+  }
+  
+  .vertical-menu a:hover {
+    background-color: rgb(250, 101, 95);
+    color: white;
+  }
+  
+.description{
+    font-family: 'Red Rose', cursive;
+    font-size: large;
+    padding: 15px;
+    letter-spacing: 2px;
+    background-color: rgb(255, 227, 226);
+}
+.desc-flex{
+    display:flex; 
+    flex-direction: row; 
+    justify-content: center; 
+    align-items: center;
+}
+.sm-container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 20px 0px 20px 0px;
+    
+}
+
+.sm-container a {
+    padding: 0px 50px;
+}
+
+.desc2-flex {
+    display:flex; 
+    flex-direction: row; 
+    justify-content: flex-start;
+    
+}
+.personal
+{
+    font-family: 'Nunito', cursive;
+    font-size: large;
+    padding: 15px;
+    letter-spacing: 2px;
+    background-color: rgb(255, 227, 226);
+}
+
+.title .date
+{
+    font-family: 'Nunito',sans-serif;
+}
