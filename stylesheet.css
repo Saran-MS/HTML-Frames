@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css2?family=Red+Rose&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,900&display=swap);
 
 .header
 {
@@ -74,6 +76,7 @@
     flex-direction: row; 
     justify-content: flex-start;
     
+    
 }
 .personal
 {
@@ -83,8 +86,12 @@
     letter-spacing: 2px;
     background-color: rgb(255, 227, 226);
 }
-
-.title .date
-{
-    font-family: 'Nunito',sans-serif;
+.education{
+    font-family: 'Nunito',cursive;
+    font-size: large;
+    padding: 15px;
+    letter-spacing: 2px;
+    background-color: rgb(255, 227, 226);
 }
+
+
